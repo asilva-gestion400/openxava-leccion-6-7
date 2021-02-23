@@ -1,1 +1,0 @@
-# openxava-leccion-6-7
